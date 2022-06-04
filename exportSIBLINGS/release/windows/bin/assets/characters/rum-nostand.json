@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rum nostand left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rum nostand idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "rum nostand idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rum nostand down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rum nostand up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rum nostand right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rum_nostand_assets",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "rum",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		76,
+		229
+	],
+	"camera_position": [
+		-10,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

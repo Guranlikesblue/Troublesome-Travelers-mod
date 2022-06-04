@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "incient2",
+			"text": "..............."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "A...Are you OK...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "incient3",
+			"text": "Do...Do you have something...something......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "incient",
+			"text": "Something to EAT...????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "Ba......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "incient2",
+			"text": "!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "notice",
+			"text": "Oh...I remembered...\\nWhat a careless person I am"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "distrust",
+			"text": "Bep...!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "notice2",
+			"text": "HUMANS...were...DELICIOUS...!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "notice2",
+			"text": "How delicious your arms...\\nyour guts loooook....!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Beep bop!?"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Do you have anything to eat?\\nI'm soooooo HUNGRY..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "Hey, are you OK?\\nYou look pale!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rum",
+			"boxState": "normal",
+			"expression": "incient2",
+			"text": "Don't worry,\\n...Let's do it again..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "O...OK..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "distrust",
+			"text": "Beep bop..."
+		}
+	]
+}

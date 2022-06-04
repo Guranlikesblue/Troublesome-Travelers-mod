@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "angry",
+			"expression": "smile",
+			"text": "GIVE ME YOUR MEAT!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Beep bop skboop!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "realize",
+			"text": "!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "THATS NOT GONNA HAPPEN!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "distrust",
+			"text": "Ba...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "realize",
+			"text": "I'm sooo hungry that\\nI will almost faint from hunger!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "impatience",
+			"text": "I want to eat it now\\n...Don't hinder me......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "NO WAY!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "realize",
+			"text": "You're also a devil naturally????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "impatience",
+			"text": "...Never mind...\\nyou won't let me eat that meat..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "glower",
+			"text": "So we have to fight in a satisfying way."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "glower",
+			"text": "If you win this rap battle,\\nI'll let you eat him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shock",
+			"text": "BEEEEEEEP!?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "glower2",
+			"text": "Sorry BF...but you never lose,\\ndon't you??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "B...beep...!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "realize",
+			"text": "After I won the battle...I can eat...!!\\nAll right!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "devilrum",
+			"boxState": "normal",
+			"expression": "impatience",
+			"text": "I want to eat you as soon as possible!!!!"
+		}
+	]
+}
