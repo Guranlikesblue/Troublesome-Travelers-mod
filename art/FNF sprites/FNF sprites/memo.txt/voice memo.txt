@@ -1,0 +1,23 @@
+:Player:
+BF, BFscary
+ Abbreviated below.
+GF
+ Abbreviated below.
+Pico
+ Abbreviated below.
+
+:CPU:
+Rum, Rumhungry
+ Cheerful, lively, loud voice.
+DevilRum
+ low tone voice. (Rum, Rumhungry, DevilRum are all the same person.)
+AdultCacao
+ Calm voice of an adult woman. However, a voice a childish somewhere.
+Cacao
+ A voice that makes the voice of adult cacao as young as it is.
+GSCacao
+ A low and clear voice that doesn't seem like a child.
+ And sometimes a voice that exudes malicious intent
+GSDevilCacao
+ Obviously non-human voice.
+ A voice that feels crazy with a lower voice than GSCacao

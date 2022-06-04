@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_portrait.png">
+	<SubTexture name="bf distrust loop0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust loop0001" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust loop0002" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust loop0003" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust loop0004" x="1008" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust loop0005" x="1008" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf distrust0001" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0000" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0001" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0002" x="2016" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0003" x="2016" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0004" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf loop0005" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf0000" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf0001" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0000" x="504" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0001" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0002" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0003" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0004" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0005" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0006" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0007" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0008" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0009" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0010" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0011" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0012" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0013" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0014" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0000" x="2016" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0001" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0002" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0003" x="504" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0004" x="504" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0005" x="1008" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0006" x="1008" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0007" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0008" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0009" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0010" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0011" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0012" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0013" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0014" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0000" x="2016" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0001" x="2016" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0002" x="0" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0003" x="0" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0004" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0005" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0006" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0007" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0008" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0009" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0010" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0011" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0012" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0013" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0014" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0015" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0016" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0017" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0018" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0000" x="1008" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0001" x="1512" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0002" x="2016" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0003" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0004" x="504" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock loop0005" x="1008" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock0000" x="1008" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock0001" x="1008" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0000" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0001" x="2016" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0002" x="0" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0003" x="504" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0004" x="1008" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0005" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0006" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0007" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0008" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0009" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0010" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0011" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0012" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0013" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0014" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf sigh0015" x="1512" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0000" x="2016" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0001" x="2016" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0002" x="0" y="3624" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0003" x="0" y="3624" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0004" x="504" y="3624" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail loop0005" x="504" y="3624" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail0000" x="2016" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smail0001" x="2016" y="3020" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+</TextureAtlas>

@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="former lover_assets.png">
+	<SubTexture name="former lover idle0000" x="0" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0001" x="0" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0002" x="904" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0003" x="904" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0004" x="1808" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0005" x="1808" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0006" x="2712" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0007" x="2712" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0008" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0009" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0010" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover idle0011" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0012" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0013" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover idle0014" x="3616" y="0" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0000" x="0" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover reload0001" x="0" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover reload0002" x="904" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover reload0003" x="1808" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover reload0004" x="2712" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0005" x="2712" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover reload0006" x="3616" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0007" x="3616" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0008" x="3616" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0009" x="3616" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover reload0010" x="3616" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0000" x="4520" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0001" x="5424" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0002" x="6328" y="1004" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0003" x="0" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0004" x="904" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0005" x="1808" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover shoot0006" x="1808" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down dodge0000" x="2712" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0001" x="2712" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down dodge0002" x="3616" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0003" x="3616" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down dodge0004" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0005" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0006" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0007" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0008" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0009" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0010" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0011" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0012" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0013" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0014" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0015" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0016" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0017" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0018" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0019" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0020" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0021" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0022" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0023" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0024" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0025" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0026" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0027" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0028" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0029" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down dodge0030" x="4520" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left dodge0000" x="5424" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0001" x="5424" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left dodge0002" x="6328" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0003" x="6328" y="2008" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left dodge0004" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0005" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0006" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0007" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0008" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0009" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0010" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0011" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0012" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0013" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0014" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0015" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0016" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0017" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0018" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0019" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0020" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0021" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0022" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0023" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0024" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0025" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0026" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0027" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0028" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0029" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left dodge0030" x="0" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right dodge0000" x="904" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0001" x="904" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right dodge0002" x="1808" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0003" x="1808" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right dodge0004" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0005" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0006" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0007" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0008" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0009" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0010" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0011" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0012" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0013" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0014" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0015" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0016" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0017" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0018" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0019" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0020" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0021" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0022" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0023" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0024" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0025" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0026" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0027" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0028" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0029" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right dodge0030" x="2712" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up dodge0000" x="3616" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0001" x="3616" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up dodge0002" x="4520" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0003" x="4520" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up dodge0004" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0005" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0006" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0007" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0008" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0009" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0010" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0011" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0012" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0013" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0014" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0015" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0016" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0017" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0018" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0019" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0020" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0021" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0022" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0023" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0024" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0025" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0026" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0027" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0028" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0029" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up dodge0030" x="5424" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down miss0000" x="6328" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0001" x="6328" y="3012" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down miss0002" x="0" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0003" x="0" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down miss0004" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0005" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0006" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0007" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0008" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0009" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0010" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0011" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0012" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0013" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0014" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0015" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0016" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0017" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0018" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0019" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0020" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0021" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0022" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0023" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0024" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0025" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0026" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0027" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0028" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0029" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down miss0030" x="904" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left miss0000" x="1808" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0001" x="1808" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left miss0002" x="2712" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0003" x="2712" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left miss0004" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0005" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0006" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0007" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0008" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0009" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0010" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0011" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0012" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0013" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0014" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0015" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0016" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0017" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0018" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0019" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0020" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0021" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0022" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0023" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0024" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0025" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0026" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0027" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0028" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0029" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left miss0030" x="3616" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right miss0000" x="4520" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0001" x="4520" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right miss0002" x="5424" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0003" x="5424" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right miss0004" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0005" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0006" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0007" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0008" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0009" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0010" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0011" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0012" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0013" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0014" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0015" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0016" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0017" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0018" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0019" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0020" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0021" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0022" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0023" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0024" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0025" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0026" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0027" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0028" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0029" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right miss0030" x="6328" y="4016" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up miss0000" x="0" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0001" x="0" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up miss0002" x="904" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0003" x="904" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up miss0004" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0005" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0006" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0007" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0008" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0009" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0010" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0011" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0012" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0013" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0014" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0015" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0016" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0017" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0018" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0019" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0020" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0021" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0022" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0023" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0024" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0025" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0026" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0027" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0028" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0029" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up miss0030" x="1808" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down0000" x="2712" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0001" x="2712" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down0002" x="3616" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0003" x="3616" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down0004" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0005" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0006" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0007" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0008" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0009" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0010" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0011" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0012" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0013" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0014" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0016" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0017" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0018" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0019" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0020" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0021" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0022" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0023" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0024" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0025" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0026" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0027" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0028" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0029" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down0030" x="4520" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left0000" x="5424" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0001" x="5424" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left0002" x="6328" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0003" x="6328" y="5020" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left0004" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0005" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0006" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0007" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0008" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0009" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0010" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0011" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0012" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0013" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0014" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0015" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0016" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0017" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0018" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0019" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0020" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0021" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0022" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0023" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0024" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0025" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0026" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0027" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0028" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0029" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left0030" x="0" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right0000" x="904" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0001" x="904" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right0002" x="1808" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0003" x="1808" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right0004" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0005" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0006" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0007" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0008" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0009" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0010" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0011" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0012" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0013" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0014" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0015" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0016" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0017" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0018" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0019" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0020" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0021" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0022" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0023" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0024" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0025" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0026" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0027" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0028" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0029" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right0030" x="2712" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up0000" x="3616" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0001" x="3616" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up0002" x="4520" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0003" x="4520" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up0004" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0005" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0006" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0007" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0008" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0009" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0010" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0011" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0012" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0013" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0014" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0015" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0016" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0017" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0018" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0019" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0020" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0021" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0022" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0023" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0024" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0025" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0026" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0027" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0028" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0029" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up0030" x="5424" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down alt0000" x="6328" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0001" x="6328" y="6024" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down alt0002" x="0" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0003" x="0" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover down alt0004" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0005" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0006" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0007" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0008" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0009" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0010" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0011" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0012" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0013" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0014" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0015" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0016" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0017" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0018" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0019" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0020" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0021" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0022" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0023" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0024" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0025" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0026" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0027" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0028" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0029" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover down alt0030" x="904" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left alt0000" x="1808" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0001" x="1808" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left alt0002" x="2712" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0003" x="2712" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover left alt0004" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0005" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0006" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0007" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0008" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0009" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0010" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0011" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0012" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0013" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0014" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0015" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0016" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0017" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0018" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0019" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0020" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0021" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0022" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0023" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0024" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0025" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0026" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0027" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0028" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0029" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover left alt0030" x="3616" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right alt0000" x="4520" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0001" x="4520" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right alt0002" x="5424" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0003" x="5424" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover right alt0004" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0005" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0006" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0007" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0008" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0009" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0010" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0011" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0012" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0013" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0014" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0015" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0016" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0017" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0018" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0019" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0020" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0021" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0022" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0023" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0024" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0025" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0026" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0027" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0028" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0029" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover right alt0030" x="6328" y="7028" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up alt0000" x="0" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0001" x="0" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up alt0002" x="904" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0003" x="904" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+    <SubTexture name="former lover up alt0004" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0005" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0006" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0007" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0008" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0009" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0010" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0011" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0012" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0013" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0014" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0015" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0016" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0017" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0018" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0019" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0020" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0021" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0022" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0023" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0024" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0025" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0026" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0027" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0028" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0029" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+	<SubTexture name="former lover up alt0030" x="1808" y="8032" width="904" height="1004" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+</TextureAtlas>

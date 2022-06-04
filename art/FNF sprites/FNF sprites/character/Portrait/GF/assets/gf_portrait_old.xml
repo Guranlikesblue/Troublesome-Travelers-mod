@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_portrait.png">
+	<SubTexture name="gf anger loop0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger loop0001" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger loop0002" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger loop0003" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger loop0004" x="1008" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger loop0005" x="1008" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf anger0001" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0000" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0001" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0002" x="2016" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0003" x="2016" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0004" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf loop0005" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf0000" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf0001" x="1512" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0000" x="504" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0001" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0002" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0003" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0004" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0005" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0006" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0007" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0008" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0009" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0010" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0011" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0012" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0013" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0014" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0015" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf miss0016" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf sad loop0000" x="2016" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf sad loop0001" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf sad loop0002" x="504" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf sad loop0003" x="1008" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf scared loop0000" x="1512" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf scared loop0001" x="2016" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf scared loop0002" x="0" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf scared loop0003" x="504" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0000" x="1008" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0001" x="1512" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0002" x="1512" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0003" x="2016" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0004" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0005" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0006" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0007" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0008" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0009" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0010" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0011" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0012" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0013" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0014" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0015" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0016" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf surprised0017" x="0" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0000" x="504" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0001" x="1008" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0002" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0003" x="2016" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0004" x="2016" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0005" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0006" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0007" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0008" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0009" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0010" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0011" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0012" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0013" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0014" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0015" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0016" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="gf trouble0017" x="1512" y="2416" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+</TextureAtlas>

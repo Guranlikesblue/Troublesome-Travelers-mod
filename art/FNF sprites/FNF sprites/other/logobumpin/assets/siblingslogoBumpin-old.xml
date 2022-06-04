@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="siblingslogoBumpin.png">
+	<SubTexture name="a logo bumpin0000" x="0" y="0" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+    <SubTexture name="a logo bumpin0001" x="904" y="0" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0002" x="904" y="0" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+    <SubTexture name="a logo bumpin0003" x="0" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0004" x="0" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+    <SubTexture name="a logo bumpin0005" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0006" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0007" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0008" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0009" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0010" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0011" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0012" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0013" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+	<SubTexture name="a logo bumpin0014" x="904" y="704" width="904" height="704" frameX="0" frameY="0" frameWidth="904" frameHeight="704" />
+</TextureAtlas>
