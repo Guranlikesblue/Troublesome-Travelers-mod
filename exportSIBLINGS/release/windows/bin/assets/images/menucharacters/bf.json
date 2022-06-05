@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M rum idle",
+	"image": "Menu_Rum",
+	"position": [
+		45,
+		20
+	],
+	"scale": 1,
+	"confirm_anim": "M rum hey"
+}

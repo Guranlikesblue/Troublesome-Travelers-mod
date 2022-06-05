@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scrollingclouds.png"><SubTexture name="scrollingclouds 10000" x="0" y="0" width="2197" height="634" frameX="0" frameY="0" frameWidth="2197" frameHeight="634" />
+<SubTexture name="scrollingclouds 20000" x="2197" y="0" width="689" height="340" frameX="0" frameY="0" frameWidth="689" frameHeight="340" />
+<SubTexture name="scrollingclouds 30000" x="0" y="634" width="1413" height="507" frameX="0" frameY="0" frameWidth="1413" frameHeight="507" />
+<SubTexture name="scrollingclouds 40000" x="1413" y="634" width="843" height="445" frameX="0" frameY="0" frameWidth="843" frameHeight="445" />
+</TextureAtlas>

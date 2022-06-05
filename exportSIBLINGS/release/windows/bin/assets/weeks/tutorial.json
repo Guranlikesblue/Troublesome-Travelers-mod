@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"tutorial",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Begining of a New Story",
+	"weekName": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

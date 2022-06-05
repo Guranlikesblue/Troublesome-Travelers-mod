@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_portrait.png">
+	<SubTexture name="bf distrust0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf grin0000" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf miss0000" x="1008" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf nosebleed0000" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf oh0000" x="504" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf scared0000" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf shock0000" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf small0000" x="504" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf smile0000" x="1008" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+	<SubTexture name="bf0000" x="0" y="1812" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+</TextureAtlas>
