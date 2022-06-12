@@ -137,6 +137,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_cacao_falling_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_cacao_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_devilcacao_json extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_devilgscacao_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_devilrum_front_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_devilrum_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_characters_falling_gameover_json extends null { }
