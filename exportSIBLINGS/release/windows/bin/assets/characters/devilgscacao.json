@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "cacao left0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "cacao idle0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "cacao down0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "cacao up0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "cacao right0",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "laugh",
+			"name": "cacao left0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"name": "cacao laugh"
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cacao idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cacao down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cacao up0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cacao right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "cacao laugh",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -81,7 +81,7 @@
 		73
 	],
 	"camera_position": [
-		-100,
+		150,
 		0
 	],
 	"sing_duration": 6.1,

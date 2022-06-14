@@ -180,9 +180,6 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_more_more_hard_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_more_more_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_more_script_lua extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_satin_panties_satin_panties_easy_json extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_satin_panties_satin_panties_hard_json extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_satin_panties_satin_panties_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_specialthanks_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_stagelist_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_data_tutorial_dialogue_json extends null { }
@@ -439,7 +436,6 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_stages_stage_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_weeks_tutorial_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_weeks_week1_json extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_weeks_week2_json extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_weeks_weeklist_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_bbbump_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_bbbump_xml extends null { }
@@ -646,14 +642,14 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_hungerstation_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_more_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_more_voices_ogg extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_satin_panties_inst_ogg extends null { }
-@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_satin_panties_voices_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_songs_tutorial_inst_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_attacknote_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_attacknote_assets_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_bad_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_adultcacao_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_adultcacao_assets_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_badboy_gameover_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_badboy_gameover_assets_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_bf_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_bf_assets_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_characters_bf_attacked_assets_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
