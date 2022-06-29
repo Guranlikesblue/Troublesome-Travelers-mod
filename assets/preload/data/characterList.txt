@@ -16,6 +16,6 @@ cacao-angry
 devilcacao
 cacao-falling
 falling-gameover
-gscacao
-devilgscacao
+theobroma
+theo
 badboy-gameover
