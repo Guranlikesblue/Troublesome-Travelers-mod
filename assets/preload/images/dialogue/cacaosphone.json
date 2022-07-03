@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		-160
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "cacaosphone_portrait",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "phone talking"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "phone calling",
+			"anim": "calling",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "phone off",
+			"anim": "off",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "phone shout",
+			"anim": "shout",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "phone surprised",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

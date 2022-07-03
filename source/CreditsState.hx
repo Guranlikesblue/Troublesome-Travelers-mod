@@ -79,8 +79,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Mod Creater'],
-			['Guranlikesblue',      'guranlikesblue',   'Main Programmer/Artist/Animator/ideas',            	'https://twitter.com/Guranlikesblue',   '0000FF'],
+			['Mod Team'],
+			['Guranlikesblue',      'guranlikesblue',   'Director, Owner, Main Artist/Animator',            	'https://twitter.com/Guranlikesblue',   '0000FF'],
+			['Nate the GoombaBoss', 'nate-the-goombaboss', 'Voice Actor',            	                        'https://discord.com/channels/982255991305412649/982255991762608198',   'd2691e'],
 			[''],
 			['Mod Contributors'],
 			['Eucalyptus7',         'eucalyptus7',      'Created The Song of Week1',                        	'https://coconala.com/users/2459595',   '89CFF0'],
