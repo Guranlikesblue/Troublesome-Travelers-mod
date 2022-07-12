@@ -18,4 +18,3 @@ cacao-falling
 falling-gameover
 theobroma
 theo
-badboy-gameover

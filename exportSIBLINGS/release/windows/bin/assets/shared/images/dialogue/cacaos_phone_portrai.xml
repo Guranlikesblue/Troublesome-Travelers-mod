@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="cacaos_phone_portrait.png">
-	<SubTexture name="phone calling0000" x="0" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
-	<SubTexture name="phone off0000" x="504" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
-	<SubTexture name="phone shout0000" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
-	<SubTexture name="phone surprised0000" x="504" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
-	<SubTexture name="phone talking0000" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
-</TextureAtlas>
