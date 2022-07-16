@@ -47,8 +47,6 @@ class PasswordMenuState extends MusicBeatState
 
     override function create()
         {
-			DiscordClient.changePresence('In the Password Menu', null);
-
 			new FlxTimer().start(0.1, function(tmr:FlxTimer)
 				{
 					FlxG.sound.playMusic(Paths.music('tea-time'));
