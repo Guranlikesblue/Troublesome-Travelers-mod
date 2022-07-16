@@ -35,10 +35,9 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
 		#if ACHIEVEMENTS_ALLOWED 'awards', #end
+		'password',
 		'credits',
-		#if !switch 'donate', #end
 		'options'
 	];
 
@@ -245,6 +244,8 @@ class MainMenuState extends MusicBeatState
 									#end
 									case 'awards':
 										MusicBeatState.switchState(new AchievementsMenuState());
+									case 'password':
+										MusicBeatState.switchState(new PasswordMenuState());
 									case 'credits':
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':

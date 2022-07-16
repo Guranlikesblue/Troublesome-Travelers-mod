@@ -82,12 +82,13 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Mod Team'],
-			['Guranlikesblue',      'guranlikesblue',   'Director, Owner, Main Artist/Animator',            	'https://twitter.com/Guranlikesblue',   '0000FF'],
-			['Nate the GoombaBoss', 'nate-the-goombaboss', 'Voice Actor',            	                        'https://discord.com/channels/982255991305412649/982255991762608198',   'd2691e'],
-			['King Porygon',        'king-porygon',     'Voice Actor',            								'',   									'1e90ff'],
+			['Guranlikesblue',      'guranlikesblue',   'Director, Owner, Main Artist/Animator, Programmer',    		'https://twitter.com/Guranlikesblue',   '0000FF'],
+			['Nate the GoombaBoss', 'nate-the-goombaboss', 'Voice Actor',            	                        		'https://discord.com/channels/982255991305412649/982255991762608198',   'd2691e'],
+			['King Porygon',        'king-porygon',     'Voice Actor',            										'',   									'1e90ff'],
+			['Mugboy',        		'mani',     		'Charter',         		   										'',   									'add8e6'],
 			[''],
 			['Mod Contributors'],
-			['Eucalyptus7',         'eucalyptus7',      'Created The Song of Week1',                        	'https://coconala.com/users/2459595',   '89CFF0'],
+			['Eucalyptus7',         'eucalyptus7',      'Composed	 The Song of Week1',                        		'https://coconala.com/users/2459595',   '89CFF0'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
