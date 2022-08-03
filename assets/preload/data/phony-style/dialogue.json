@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "So, here we are at the park!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "small",
+			"text": "Beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "small",
+			"text": "Beep bop bop!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "small",
+			"text": "Oh, is she the girl we are looking for?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "small",
+			"text": "She looks taller than Rum"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "It seems there is nobody who looks like except her so lets go!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um... Excuse me, can you tell us your name?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "distrust",
+			"text": "Huh? ...Im Cacao"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you are Rums younger sister, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We were asked him to find you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He said that he wanted you to come"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "NO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "BOP!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "What!!? But why??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "fed up",
+			"text": "Why do I have to go?\\nRum should come to see me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "He cant move now and thats why we are here instead of him"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "Uh-huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "fed up",
+			"text": "...OK, Ill go with you if two do something fun"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "sigh",
+			"text": "There any problems?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "All right... how about rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "grin",
+			"text": "Beep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "If you lose, come with us!! OK?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "adultcacao",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Fine\\nIt might amuse me a little"
+		}
+	]
+}

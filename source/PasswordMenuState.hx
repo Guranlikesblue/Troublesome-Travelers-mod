@@ -160,7 +160,7 @@ class PasswordMenuState extends MusicBeatState
 
 	function doTheThing(first:Int, second:Int) 
 	{
-		if (first == 12 && second == 25)
+		if (first == 6 && second == 6)
 		{
 			woahmanstopspammin = false;
 			PlayState.SONG = Song.loadFromJson('souls-hard', 'souls');
@@ -205,11 +205,11 @@ class PasswordMenuState extends MusicBeatState
 		
 	override public function update(elapsed:Float)
 		{
-			if (FlxG.keys.justPressed.RIGHT || FlxG.keys.justPressed.LEFT || FlxG.keys.justPressed.A || FlxG.keys.justPressed.D) if (woahmanstopspammin) funnymonke = !funnymonke;
+			if (FlxG.keys.justPressed.DOWN || FlxG.keys.justPressed.UP || FlxG.keys.justPressed.S || FlxG.keys.justPressed.W) if (woahmanstopspammin) funnymonke = !funnymonke;
 
-			if (FlxG.keys.justPressed.DOWN || FlxG.keys.justPressed.S) if (woahmanstopspammin) changeNumber(1);
+			if (FlxG.keys.justPressed.RIGHT || FlxG.keys.justPressed.D) if (woahmanstopspammin) changeNumber(1);
 
-			if (FlxG.keys.justPressed.UP || FlxG.keys.justPressed.W) if (woahmanstopspammin) changeNumber(-1);
+			if (FlxG.keys.justPressed.LEFT || FlxG.keys.justPressed.A) if (woahmanstopspammin) changeNumber(-1);
 
 			if (FlxG.keys.justPressed.ENTER && woahmanstopspammin) doTheThing(pcmValue, daValue);
 

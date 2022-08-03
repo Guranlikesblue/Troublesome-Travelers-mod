@@ -1,59 +1,84 @@
 {
+	"dialogue_pos": "center",
 	"position": [
 		0,
 		-160
 	],
-	"dialogue_pos": "center",
 	"scale": 1.25,
-	"image": "cacaosphone_portrait",
 	"animations": [
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "talk",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"loop_name": "",
-			"idle_name": "phone talking"
+			"idle_name": "phone talking",
+			"loop_name": ""
 		},
 		{
-			"loop_name": "",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "phone calling",
 			"anim": "calling",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "phone off",
+			"loop_name": "",
+			"idle_name": "phone calling"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "off",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "phone shout",
+			"loop_name": "",
+			"idle_name": "phone off"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "shout",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "phone shout"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "surprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "phone surprised"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "phone glitch",
+			"anim": "glitch",
 			"loop_offsets": [
 				0,
 				0
@@ -65,12 +90,13 @@
 				0,
 				0
 			],
-			"idle_name": "phone surprised",
-			"anim": "surprised",
+			"idle_name": "phone theo",
+			"anim": "theo",
 			"loop_offsets": [
 				0,
 				0
 			]
 		}
-	]
+	],
+	"image": "cacaosphone_portrait"
 }
