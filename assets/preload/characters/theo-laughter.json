@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fade in",
+			"loop": false,
+			"name": "theo fade in"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fade out",
+			"loop": false,
+			"name": "theo fade out"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "lauhter",
+			"loop": false,
+			"name": "theo idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/theo_laughter_assets",
+	"position": [
+		100,
+		-50
+	],
+	"healthicon": "devilboycacao",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		93
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
