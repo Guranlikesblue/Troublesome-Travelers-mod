@@ -5,70 +5,92 @@
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "cacao left0"
+			"loop": false,
+			"name": "theo left0"
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "cacao idle0"
+			"loop": false,
+			"name": "theo idle0"
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "cacao down0"
+			"loop": false,
+			"name": "theo down0"
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "cacao up0"
+			"loop": false,
+			"name": "theo up0"
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "cacao right0"
+			"loop": false,
+			"name": "theo right0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "laugh",
+			"indices": [],
 			"fps": 24,
-			"name": "cacao laugh",
-			"indices": []
+			"anim": "laugh",
+			"loop": false,
+			"name": "theo laugh"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fade in",
+			"loop": false,
+			"name": "theo fade in"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fade out",
+			"loop": false,
+			"name": "theo fade out"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/devilgscacao_assets",
+	"image": "characters/theo_assets",
 	"position": [
 		-100,
 		-250
