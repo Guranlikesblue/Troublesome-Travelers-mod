@@ -1,19 +1,23 @@
 {
-	"storyName": "Your New Week",
-	"difficulties": "Hard",
+	"storyName": "magic genius",
+	"difficulties": "Normal, Hard",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
+	"weekBackground": "vscacao",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"satin-panties",
+			"phony-style",
 			"adultcacao",
 			[
 				255,
@@ -31,11 +35,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": true,
+	"weekName": "week2",
+	"hiddenUntilUnlocked": false
 }

@@ -2076,13 +2076,16 @@ class PlayState extends MusicBeatState
 				var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
 				introAssets.set('default', ['ready', 'set', 'go']);
 				introAssets.set('pixel', ['pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel']);
-				introAssets.set('evil', ['evil/ready-evil', 'evil/set-evil', 'evil/go-evil']);
+				introAssets.set('evil', ['evilUi/ready-evil', 'evilUi/set-evil', 'evilUi/go-evil']);
 
 				var introAlts:Array<String> = introAssets.get('default');
 				var antialias:Bool = ClientPrefs.globalAntialiasing;
 				if(isPixelStage) {
 					introAlts = introAssets.get('pixel');
 					antialias = false;
+				}
+				if(isEvilStage) {
+					introAlts = introAssets.get('evil');
 				}
 
 				// head bopping for bg characters on Mall
@@ -2092,6 +2095,13 @@ class PlayState extends MusicBeatState
 
 					bottomBoppers.dance(true);
 					santa.dance(true);
+				}
+				
+				if(curStage == 'park') {
+					if(!ClientPrefs.lowQuality)
+						upperBoppers.dance(true);
+
+					bottomBoppers.dance(true);
 				}
 
 				switch (swagCounter)
@@ -2931,6 +2941,14 @@ class PlayState extends MusicBeatState
 						heyTimer = 0;
 					}
 				}
+			case 'park':
+				if(heyTimer > 0) {
+					heyTimer -= elapsed;
+					if(heyTimer <= 0) {
+						bottomBoppers.dance(true);
+						heyTimer = 0;
+					}
+				}
 		}
 
 		if(!inCutscene) {
@@ -3404,6 +3422,11 @@ class PlayState extends MusicBeatState
 					}
 
 					if(curStage == 'mall') {
+						bottomBoppers.animation.play('hey', true);
+						heyTimer = time;
+					}
+					
+					if(curStage == 'park') {
 						bottomBoppers.animation.play('hey', true);
 						heyTimer = time;
 					}
@@ -4056,7 +4079,7 @@ class PlayState extends MusicBeatState
 		}
 		if (PlayState.isEvilStage)
 		{
-			pixelShitPart1 = 'evil/';
+			pixelShitPart1 = "evilUi/";
 			pixelShitPart2 = '-evil';
 		}
 
@@ -4968,6 +4991,13 @@ class PlayState extends MusicBeatState
 					trainCooldown = FlxG.random.int(-4, 0);
 					trainStart();
 				}
+				
+				case 'park':
+				if(!ClientPrefs.lowQuality) {
+					upperBoppers.dance(true);
+				}
+
+				if(heyTimer <= 0) bottomBoppers.dance(true);
 		}
 
 		if (curStage == 'spooky' && FlxG.random.bool(10) && curBeat > lightningStrikeBeat + lightningOffset)
