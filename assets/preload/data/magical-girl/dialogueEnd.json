@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "Hey!? Whatsre you doing!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "glower2",
+			"text": "Sorry, but we have to take you there\\nas soon as possible"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "anger2",
+			"text": "You didnt tell me anything about this!!\\nYou coward!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao2",
+			"boxState": "normal",
+			"expression": "hairstyle change",
+			"text": "...Gah,  all right!! Ill go if you won the next battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "glower",
+			"text": "Got it!! Lets bring this to an end"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao2",
+			"boxState": "normal",
+			"expression": "eyes closing",
+			"text": "Lets end this battle..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao2",
+			"boxState": "angry",
+			"expression": "anger",
+			"text": "ABOVE THE CLOUD!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shock",
+			"text": "Beep bop skboop!?"
+		}
+	]
+}

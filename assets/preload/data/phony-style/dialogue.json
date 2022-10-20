@@ -54,7 +54,7 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "smile",
-			"text": "It seems there is nobody who looks like except her so lets go!!"
+			"text": "It seems there is nobody who looks like except her so let's go!!"
 		},
 		{
 			"sound": "",
@@ -70,7 +70,7 @@
 			"portrait": "adultcacao",
 			"boxState": "normal",
 			"expression": "distrust",
-			"text": "Huh? ...Im Cacao"
+			"text": "Huh? ...I'm Cacao"
 		},
 		{
 			"sound": "",
@@ -78,7 +78,7 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "So you are Rums younger sister, right?"
+			"text": "So you are Rum's younger sister, right?"
 		},
 		{
 			"sound": "",
@@ -86,7 +86,7 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "We were asked him to find you"
+			"text": "We were asked by him to find you"
 		},
 		{
 			"sound": "",
@@ -134,7 +134,7 @@
 			"portrait": "gf",
 			"boxState": "normal",
 			"expression": "miss",
-			"text": "He cant move now and thats why we are here instead of him"
+			"text": "He can't move now and that's why we are here instead of him"
 		},
 		{
 			"sound": "",
@@ -150,7 +150,7 @@
 			"portrait": "adultcacao",
 			"boxState": "normal",
 			"expression": "fed up",
-			"text": "...OK, Ill go with you if two do something fun"
+			"text": "...OK, I'll go with you if two do something fun"
 		},
 		{
 			"sound": "",
@@ -158,7 +158,7 @@
 			"portrait": "adultcacao",
 			"boxState": "normal",
 			"expression": "sigh",
-			"text": "There any problems?"
+			"text": "Are there any problems?"
 		},
 		{
 			"sound": "",

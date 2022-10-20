@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "anger2",
+			"text": "Gah, I've returned completely!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Well, it doesn't matter to me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "be amazed",
+			"text": "It's troblesome to turn into an adult"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "Beep bop bep!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "Oh, you look like what weve imagined!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "Everyone makes light of me like you two\\nwhen I show my true figure!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cacao",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "That's why I HATE this appearance!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Never mind,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "BF! Let's show all you got!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "small",
+			"text": "Beep bop!"
+		}
+	]
+}
