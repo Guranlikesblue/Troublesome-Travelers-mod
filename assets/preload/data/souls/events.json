@@ -2,122 +2,152 @@
 	"song": {
 		"events": [
 			[
+				0,
+				[
+					[
+						"Play Animation",
+						"fade in",
+						"bf"
+					]
+				]
+			],
+			[
+				22410.7142857143,
+				[
+					[
+						"Play Animation",
+						"fade in",
+						"dad"
+					]
+				]
+			],
+			[
 				230972.744360903,
 				[
 					[
 						"Play Animation",
 						"singDOWN",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				231240.60150376,
+				231151.315789474,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				231419.172932331,
+				231329.887218046,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				231597.744360903,
+				231508.458646617,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				231776.315789474,
+				231687.030075188,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				231954.887218046,
+				231865.60150376,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				232133.458646617,
+				232044.172932331,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				232312.030075188,
+				232222.744360903,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				232490.60150376,
+				232401.315789474,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				232669.172932331,
+				232579.887218046,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				232847.744360903,
+				232758.458646617,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
 					]
 				]
 			],
 			[
-				233026.315789474,
+				232937.030075188,
 				[
 					[
 						"Play Animation",
 						"laugh",
-						"theo"
+						"dad"
+					]
+				]
+			],
+			[
+				244812.030075188,
+				[
+					[
+						"Play Animation",
+						"fade out",
+						"dad"
 					]
 				]
 			]
