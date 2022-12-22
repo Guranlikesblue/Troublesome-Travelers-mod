@@ -20,6 +20,7 @@ import lime.app.Application;
 import Achievements;
 import editors.MasterEditorMenu;
 import flixel.input.keyboard.FlxKey;
+import troublesome.*;
 
 using StringTools;
 
@@ -245,7 +246,7 @@ class MainMenuState extends MusicBeatState
 									case 'awards':
 										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'password':
-										MusicBeatState.switchState(new PasswordMenuState());
+										MusicBeatState.switchState(new TroublesomePassword());
 									case 'credits':
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
