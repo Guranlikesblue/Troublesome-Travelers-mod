@@ -1,9 +1,7 @@
 function onStepHit()
 	if curStep == 319 then
-		noteTweenAlpha('note1', 0, 0, 1.2, 'linear');
-		noteTweenAlpha('note2', 1, 0, 1.2, 'linear');
-		noteTweenAlpha('note3', 2, 0, 1.2, 'linear');
-		noteTweenAlpha('note4', 3, 0, 1.2, 'linear');
+		for i = 0, 3 do
+			noteTweenAlpha('opponentNotes', i, 0, 1.2, 'linear');
 		
 		setProperty('scoreTxt.visible', false)
 		setProperty('timeBarBG.visible', false);
